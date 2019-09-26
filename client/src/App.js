@@ -10,6 +10,8 @@ function App() {
     <Router>
       <div className="App">
       <header className="App-header">
+        <h1>Wellcome to my first AWS multi container deployment with Docker</h1>
+        <h3>What About a little Fib:</h3>
         <img src={logo} className="App-logo" alt="logo" />
         <Link to="/">Home</Link>
         <Link to="/otherpage">Other Page</Link>
